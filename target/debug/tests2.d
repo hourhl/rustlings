@@ -1,1 +1,1 @@
-/home/xu/InfiniTensor/rustlings/rustlings/target/debug/tests2: /home/xu/InfiniTensor/rustlings/rustlings/exercises/17_tests/tests2.rs
+/home/xu/InfiniTensor/rustlings/target/debug/tests2: /home/xu/InfiniTensor/rustlings/exercises/17_tests/tests2.rs

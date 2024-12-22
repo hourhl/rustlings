@@ -1,6 +1,6 @@
-/home/xu/InfiniTensor/rustlings/rustlings/target/debug/deps/libclippy1-305ebf4e818b8404.rmeta: exercises/22_clippy/clippy1.rs Cargo.toml
+/home/xu/InfiniTensor/rustlings/target/debug/deps/libclippy1-305ebf4e818b8404.rmeta: exercises/22_clippy/clippy1.rs Cargo.toml
 
-/home/xu/InfiniTensor/rustlings/rustlings/target/debug/deps/clippy1-305ebf4e818b8404.d: exercises/22_clippy/clippy1.rs Cargo.toml
+/home/xu/InfiniTensor/rustlings/target/debug/deps/clippy1-305ebf4e818b8404.d: exercises/22_clippy/clippy1.rs Cargo.toml
 
 exercises/22_clippy/clippy1.rs:
 Cargo.toml:
